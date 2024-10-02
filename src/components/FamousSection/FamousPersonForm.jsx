@@ -1,7 +1,7 @@
 import {useState} from 'react';
 import axios from 'axios';
 
-function FamousPeopleForm(props) {
+function FamousPersonForm(props) {
 let [famousPersonName, setPersonName] = useState('');
 let [famousPersonRole, setPersonRole] = useState('');
 

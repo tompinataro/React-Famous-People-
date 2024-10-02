@@ -30,6 +30,7 @@ function FamousSection() {
 
   return (
     <section className="new-person-section">
+      <p> SECTION </p>
       <FamousPersonForm fetchPeople={fetchPeople} />
       <FamousPersonList peopleList={famousPeopleArray} />
     </section>

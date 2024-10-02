@@ -7,6 +7,7 @@ function App() {
   return (
     <div className="App">
       <Header />
+      <p> HOPE TO SEE THIS</p>
       <FamousSection />
       {/* 
         The list shouldn't go here.
